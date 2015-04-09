@@ -1,8 +1,8 @@
 Package.describe({
   name: 'jboulhous:dev',
-  version: '1.0.0',
+  version: '1.0.1',
   summary: 'Meteor.isDevelopment in dev mode',
-  git: '',
+  git: 'https://github.com/jboulhous/dev',
   documentation: 'README.md',
   debugOnly: true
 });
